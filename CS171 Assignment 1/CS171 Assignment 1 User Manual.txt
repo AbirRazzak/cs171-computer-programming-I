@@ -1,0 +1,17 @@
+USER MANUAL
+
+Assignment 1 Program 1
+-------------------------
+Program: Tuition.cpp
+	> It is important that when entering the initial tuition when prompted, that you
+	  enter the amount to the nearest dollar. After typing in the initial tuition, 
+	  the program will ask you for a rate. Be sure to enter the rate as a percent (ex. 5.2 will be 5.2%),
+	  the program will automatically convert it into the decimal equivalent. Hit enter in between inputs 
+	  and the program will do the rest.
+	  
+Assignment 1 Program 2
+--------------------------
+Program: FluidOunce.cpp
+	> When the program prompts you, type in the number of fluid ounces you wish to convert.
+	  Make sure however that you enter a whole number of fluid ounces, and no negative numbers
+	  please. Press enter and the program will do the rest.

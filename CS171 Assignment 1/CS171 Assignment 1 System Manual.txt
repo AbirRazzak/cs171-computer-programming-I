@@ -1,0 +1,18 @@
+SYSTEM MANUAL
+
+Assingment 1 Program 1
+------------------------
+Program: Tuition.ccp
+	> This program computes yearly tuition based on the formula:
+		Current Tuition = Last Year's Tuition * Tuition Rate
+	> Note that the user is expected to enter the initial tuition as an integer
+	> Note that the user is expected to enter the tuition rate as a double (program will convert inputted rate into a percent)
+	> This program is solely based on integers and a double (tuition rate), and no conditional statements are used
+	
+Assingment 1 Program 2
+-------------------------
+Program: FluidOunce.cpp
+	> This program breaks down a numver of fluid ounces into other units based on conversion factors
+	> Conversion factors can be found in the code and are initialized as constant integers
+	> Note that the user is expected to enter the amount of fluid ounces as an integer
+	> This program is solely based on integers, and no conditial statements are used

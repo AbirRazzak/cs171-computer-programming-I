@@ -1,0 +1,2173 @@
+LUNAR LANDER INSTRUCTION 
+
+You are landing on the moon and have taken over manua 
+control 1000 feet above a good landing spot.  You have  
+downward velocity of 50 feet/sec.  150 units of fuel remain 
+
+Here are the rules that govern your APOLLO space-craft 
+ (1) After each second, the height, velocity, and remainin 
+     fuel will be reported via DIGBY, your on-board computer 
+ (2) After each report, enter the number of units of fuel yo 
+     wish to burn during the next second.  Each unit of fue 
+     will slow your descent by 1 foot/sec 
+ (3) The maximum thrust of your engine is 30 feet/sec/sec o 
+     0 units of fuel per second 
+ (4) When you contact the lunar surface, your descent engin 
+     will automatically shut down and you will be given a 
+     report of your landing speed and remaining fuel 
+ (5) If you run out of fuel, you will no longer be prompte 
+     to enter the number of units to burn each second.  You 
+     second by second reports will continue until you contac 
+     the lunar surface 
+Status of your APOLLO spacecraft: 
+Time  :0.000000 seconds 
+Height:1000.000000 feet 
+Speed :50.000000 feet/second 
+Fuel  :150.000000
+Status of your APOLLO spacecraft: 
+Time  :1.000000 seconds 
+Height:1000.000000 feet 
+Speed :50.000000 feet/second 
+Fuel  :145.000000
+Status of your APOLLO spacecraft: 
+Time  :2.000000 seconds 
+Height:997.500000 feet 
+Speed :55.000000 feet/second 
+Fuel  :145.000000
+Status of your APOLLO spacecraft: 
+Time  :3.000000 seconds 
+Height:997.500000 feet 
+Speed :55.000000 feet/second 
+Fuel  :140.000000
+Status of your APOLLO spacecraft: 
+Time  :4.000000 seconds 
+Height:997.500000 feet 
+Speed :55.000000 feet/second 
+Fuel  :135.000000
+Status of your APOLLO spacecraft: 
+Time  :5.000000 seconds 
+Height:997.500000 feet 
+Speed :55.000000 feet/second 
+Fuel  :130.000000
+Status of your APOLLO spacecraft: 
+Time  :6.000000 seconds 
+Height:997.500000 feet 
+Speed :55.000000 feet/second 
+Fuel  :125.000000
+Status of your APOLLO spacecraft: 
+Time  :7.000000 seconds 
+Height:997.500000 feet 
+Speed :55.000000 feet/second 
+Fuel  :120.000000
+Status of your APOLLO spacecraft: 
+Time  :8.000000 seconds 
+Height:997.500000 feet 
+Speed :55.000000 feet/second 
+Fuel  :115.000000
+Status of your APOLLO spacecraft: 
+Time  :9.000000 seconds 
+Height:997.500000 feet 
+Speed :55.000000 feet/second 
+Fuel  :110.000000
+Status of your APOLLO spacecraft: 
+Time  :10.000000 seconds 
+Height:997.500000 feet 
+Speed :55.000000 feet/second 
+Fuel  :105.000000
+Status of your APOLLO spacecraft: 
+Time  :11.000000 seconds 
+Height:997.500000 feet 
+Speed :55.000000 feet/second 
+Fuel  :100.000000
+Status of your APOLLO spacecraft: 
+Time  :12.000000 seconds 
+Height:1000.000000 feet 
+Speed :50.000000 feet/second 
+Fuel  :90.000000
+Status of your APOLLO spacecraft: 
+Time  :13.000000 seconds 
+Height:1002.500000 feet 
+Speed :45.000000 feet/second 
+Fuel  :80.000000
+Status of your APOLLO spacecraft: 
+Time  :14.000000 seconds 
+Height:1005.000000 feet 
+Speed :40.000000 feet/second 
+Fuel  :70.000000
+Status of your APOLLO spacecraft: 
+Time  :15.000000 seconds 
+Height:1007.500000 feet 
+Speed :35.000000 feet/second 
+Fuel  :60.000000
+Status of your APOLLO spacecraft: 
+Time  :16.000000 seconds 
+Height:1010.000000 feet 
+Speed :30.000000 feet/second 
+Fuel  :50.000000
+Status of your APOLLO spacecraft: 
+Time  :17.000000 seconds 
+Height:1010.000000 feet 
+Speed :30.000000 feet/second 
+Fuel  :45.000000
+Status of your APOLLO spacecraft: 
+Time  :18.000000 seconds 
+Height:1010.000000 feet 
+Speed :30.000000 feet/second 
+Fuel  :40.000000
+Status of your APOLLO spacecraft: 
+Time  :19.000000 seconds 
+Height:1010.000000 feet 
+Speed :30.000000 feet/second 
+Fuel  :35.000000
+Status of your APOLLO spacecraft: 
+Time  :20.000000 seconds 
+Height:1010.000000 feet 
+Speed :30.000000 feet/second 
+Fuel  :30.000000
+Status of your APOLLO spacecraft: 
+Time  :21.000000 seconds 
+Height:1015.000000 feet 
+Speed :20.000000 feet/second 
+Fuel  :15.000000
+Status of your APOLLO spacecraft: 
+Time  :22.000000 seconds 
+Height:1015.000000 feet 
+Speed :20.000000 feet/second 
+Fuel  :10.000000
+Status of your APOLLO spacecraft: 
+Time  :23.000000 seconds 
+Height:1017.500000 feet 
+Speed :15.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :24.000000 seconds 
+Height:1015.000000 feet 
+Speed :20.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :25.000000 seconds 
+Height:1012.500000 feet 
+Speed :25.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :26.000000 seconds 
+Height:1010.000000 feet 
+Speed :30.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :27.000000 seconds 
+Height:1007.500000 feet 
+Speed :35.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :28.000000 seconds 
+Height:1005.000000 feet 
+Speed :40.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :29.000000 seconds 
+Height:1002.500000 feet 
+Speed :45.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :30.000000 seconds 
+Height:1000.000000 feet 
+Speed :50.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :31.000000 seconds 
+Height:997.500000 feet 
+Speed :55.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :32.000000 seconds 
+Height:995.000000 feet 
+Speed :60.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :33.000000 seconds 
+Height:992.500000 feet 
+Speed :65.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :34.000000 seconds 
+Height:990.000000 feet 
+Speed :70.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :35.000000 seconds 
+Height:987.500000 feet 
+Speed :75.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :36.000000 seconds 
+Height:985.000000 feet 
+Speed :80.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :37.000000 seconds 
+Height:982.500000 feet 
+Speed :85.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :38.000000 seconds 
+Height:980.000000 feet 
+Speed :90.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :39.000000 seconds 
+Height:977.500000 feet 
+Speed :95.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :40.000000 seconds 
+Height:975.000000 feet 
+Speed :100.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :41.000000 seconds 
+Height:972.500000 feet 
+Speed :105.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :42.000000 seconds 
+Height:970.000000 feet 
+Speed :110.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :43.000000 seconds 
+Height:967.500000 feet 
+Speed :115.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :44.000000 seconds 
+Height:965.000000 feet 
+Speed :120.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :45.000000 seconds 
+Height:962.500000 feet 
+Speed :125.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :46.000000 seconds 
+Height:960.000000 feet 
+Speed :130.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :47.000000 seconds 
+Height:957.500000 feet 
+Speed :135.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :48.000000 seconds 
+Height:955.000000 feet 
+Speed :140.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :49.000000 seconds 
+Height:952.500000 feet 
+Speed :145.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :50.000000 seconds 
+Height:950.000000 feet 
+Speed :150.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :51.000000 seconds 
+Height:947.500000 feet 
+Speed :155.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :52.000000 seconds 
+Height:945.000000 feet 
+Speed :160.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :53.000000 seconds 
+Height:942.500000 feet 
+Speed :165.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :54.000000 seconds 
+Height:940.000000 feet 
+Speed :170.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :55.000000 seconds 
+Height:937.500000 feet 
+Speed :175.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :56.000000 seconds 
+Height:935.000000 feet 
+Speed :180.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :57.000000 seconds 
+Height:932.500000 feet 
+Speed :185.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :58.000000 seconds 
+Height:930.000000 feet 
+Speed :190.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :59.000000 seconds 
+Height:927.500000 feet 
+Speed :195.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :60.000000 seconds 
+Height:925.000000 feet 
+Speed :200.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :61.000000 seconds 
+Height:922.500000 feet 
+Speed :205.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :62.000000 seconds 
+Height:920.000000 feet 
+Speed :210.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :63.000000 seconds 
+Height:917.500000 feet 
+Speed :215.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :64.000000 seconds 
+Height:915.000000 feet 
+Speed :220.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :65.000000 seconds 
+Height:912.500000 feet 
+Speed :225.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :66.000000 seconds 
+Height:910.000000 feet 
+Speed :230.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :67.000000 seconds 
+Height:907.500000 feet 
+Speed :235.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :68.000000 seconds 
+Height:905.000000 feet 
+Speed :240.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :69.000000 seconds 
+Height:902.500000 feet 
+Speed :245.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :70.000000 seconds 
+Height:900.000000 feet 
+Speed :250.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :71.000000 seconds 
+Height:897.500000 feet 
+Speed :255.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :72.000000 seconds 
+Height:895.000000 feet 
+Speed :260.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :73.000000 seconds 
+Height:892.500000 feet 
+Speed :265.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :74.000000 seconds 
+Height:890.000000 feet 
+Speed :270.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :75.000000 seconds 
+Height:887.500000 feet 
+Speed :275.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :76.000000 seconds 
+Height:885.000000 feet 
+Speed :280.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :77.000000 seconds 
+Height:882.500000 feet 
+Speed :285.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :78.000000 seconds 
+Height:880.000000 feet 
+Speed :290.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :79.000000 seconds 
+Height:877.500000 feet 
+Speed :295.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :80.000000 seconds 
+Height:875.000000 feet 
+Speed :300.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :81.000000 seconds 
+Height:872.500000 feet 
+Speed :305.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :82.000000 seconds 
+Height:870.000000 feet 
+Speed :310.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :83.000000 seconds 
+Height:867.500000 feet 
+Speed :315.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :84.000000 seconds 
+Height:865.000000 feet 
+Speed :320.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :85.000000 seconds 
+Height:862.500000 feet 
+Speed :325.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :86.000000 seconds 
+Height:860.000000 feet 
+Speed :330.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :87.000000 seconds 
+Height:857.500000 feet 
+Speed :335.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :88.000000 seconds 
+Height:855.000000 feet 
+Speed :340.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :89.000000 seconds 
+Height:852.500000 feet 
+Speed :345.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :90.000000 seconds 
+Height:850.000000 feet 
+Speed :350.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :91.000000 seconds 
+Height:847.500000 feet 
+Speed :355.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :92.000000 seconds 
+Height:845.000000 feet 
+Speed :360.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :93.000000 seconds 
+Height:842.500000 feet 
+Speed :365.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :94.000000 seconds 
+Height:840.000000 feet 
+Speed :370.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :95.000000 seconds 
+Height:837.500000 feet 
+Speed :375.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :96.000000 seconds 
+Height:835.000000 feet 
+Speed :380.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :97.000000 seconds 
+Height:832.500000 feet 
+Speed :385.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :98.000000 seconds 
+Height:830.000000 feet 
+Speed :390.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :99.000000 seconds 
+Height:827.500000 feet 
+Speed :395.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :100.000000 seconds 
+Height:825.000000 feet 
+Speed :400.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :101.000000 seconds 
+Height:822.500000 feet 
+Speed :405.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :102.000000 seconds 
+Height:820.000000 feet 
+Speed :410.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :103.000000 seconds 
+Height:817.500000 feet 
+Speed :415.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :104.000000 seconds 
+Height:815.000000 feet 
+Speed :420.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :105.000000 seconds 
+Height:812.500000 feet 
+Speed :425.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :106.000000 seconds 
+Height:810.000000 feet 
+Speed :430.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :107.000000 seconds 
+Height:807.500000 feet 
+Speed :435.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :108.000000 seconds 
+Height:805.000000 feet 
+Speed :440.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :109.000000 seconds 
+Height:802.500000 feet 
+Speed :445.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :110.000000 seconds 
+Height:800.000000 feet 
+Speed :450.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :111.000000 seconds 
+Height:797.500000 feet 
+Speed :455.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :112.000000 seconds 
+Height:795.000000 feet 
+Speed :460.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :113.000000 seconds 
+Height:792.500000 feet 
+Speed :465.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :114.000000 seconds 
+Height:790.000000 feet 
+Speed :470.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :115.000000 seconds 
+Height:787.500000 feet 
+Speed :475.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :116.000000 seconds 
+Height:785.000000 feet 
+Speed :480.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :117.000000 seconds 
+Height:782.500000 feet 
+Speed :485.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :118.000000 seconds 
+Height:780.000000 feet 
+Speed :490.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :119.000000 seconds 
+Height:777.500000 feet 
+Speed :495.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :120.000000 seconds 
+Height:775.000000 feet 
+Speed :500.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :121.000000 seconds 
+Height:772.500000 feet 
+Speed :505.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :122.000000 seconds 
+Height:770.000000 feet 
+Speed :510.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :123.000000 seconds 
+Height:767.500000 feet 
+Speed :515.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :124.000000 seconds 
+Height:765.000000 feet 
+Speed :520.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :125.000000 seconds 
+Height:762.500000 feet 
+Speed :525.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :126.000000 seconds 
+Height:760.000000 feet 
+Speed :530.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :127.000000 seconds 
+Height:757.500000 feet 
+Speed :535.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :128.000000 seconds 
+Height:755.000000 feet 
+Speed :540.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :129.000000 seconds 
+Height:752.500000 feet 
+Speed :545.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :130.000000 seconds 
+Height:750.000000 feet 
+Speed :550.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :131.000000 seconds 
+Height:747.500000 feet 
+Speed :555.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :132.000000 seconds 
+Height:745.000000 feet 
+Speed :560.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :133.000000 seconds 
+Height:742.500000 feet 
+Speed :565.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :134.000000 seconds 
+Height:740.000000 feet 
+Speed :570.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :135.000000 seconds 
+Height:737.500000 feet 
+Speed :575.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :136.000000 seconds 
+Height:735.000000 feet 
+Speed :580.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :137.000000 seconds 
+Height:732.500000 feet 
+Speed :585.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :138.000000 seconds 
+Height:730.000000 feet 
+Speed :590.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :139.000000 seconds 
+Height:727.500000 feet 
+Speed :595.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :140.000000 seconds 
+Height:725.000000 feet 
+Speed :600.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :141.000000 seconds 
+Height:722.500000 feet 
+Speed :605.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :142.000000 seconds 
+Height:720.000000 feet 
+Speed :610.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :143.000000 seconds 
+Height:717.500000 feet 
+Speed :615.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :144.000000 seconds 
+Height:715.000000 feet 
+Speed :620.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :145.000000 seconds 
+Height:712.500000 feet 
+Speed :625.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :146.000000 seconds 
+Height:710.000000 feet 
+Speed :630.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :147.000000 seconds 
+Height:707.500000 feet 
+Speed :635.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :148.000000 seconds 
+Height:705.000000 feet 
+Speed :640.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :149.000000 seconds 
+Height:702.500000 feet 
+Speed :645.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :150.000000 seconds 
+Height:700.000000 feet 
+Speed :650.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :151.000000 seconds 
+Height:697.500000 feet 
+Speed :655.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :152.000000 seconds 
+Height:695.000000 feet 
+Speed :660.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :153.000000 seconds 
+Height:692.500000 feet 
+Speed :665.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :154.000000 seconds 
+Height:690.000000 feet 
+Speed :670.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :155.000000 seconds 
+Height:687.500000 feet 
+Speed :675.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :156.000000 seconds 
+Height:685.000000 feet 
+Speed :680.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :157.000000 seconds 
+Height:682.500000 feet 
+Speed :685.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :158.000000 seconds 
+Height:680.000000 feet 
+Speed :690.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :159.000000 seconds 
+Height:677.500000 feet 
+Speed :695.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :160.000000 seconds 
+Height:675.000000 feet 
+Speed :700.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :161.000000 seconds 
+Height:672.500000 feet 
+Speed :705.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :162.000000 seconds 
+Height:670.000000 feet 
+Speed :710.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :163.000000 seconds 
+Height:667.500000 feet 
+Speed :715.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :164.000000 seconds 
+Height:665.000000 feet 
+Speed :720.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :165.000000 seconds 
+Height:662.500000 feet 
+Speed :725.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :166.000000 seconds 
+Height:660.000000 feet 
+Speed :730.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :167.000000 seconds 
+Height:657.500000 feet 
+Speed :735.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :168.000000 seconds 
+Height:655.000000 feet 
+Speed :740.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :169.000000 seconds 
+Height:652.500000 feet 
+Speed :745.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :170.000000 seconds 
+Height:650.000000 feet 
+Speed :750.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :171.000000 seconds 
+Height:647.500000 feet 
+Speed :755.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :172.000000 seconds 
+Height:645.000000 feet 
+Speed :760.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :173.000000 seconds 
+Height:642.500000 feet 
+Speed :765.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :174.000000 seconds 
+Height:640.000000 feet 
+Speed :770.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :175.000000 seconds 
+Height:637.500000 feet 
+Speed :775.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :176.000000 seconds 
+Height:635.000000 feet 
+Speed :780.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :177.000000 seconds 
+Height:632.500000 feet 
+Speed :785.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :178.000000 seconds 
+Height:630.000000 feet 
+Speed :790.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :179.000000 seconds 
+Height:627.500000 feet 
+Speed :795.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :180.000000 seconds 
+Height:625.000000 feet 
+Speed :800.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :181.000000 seconds 
+Height:622.500000 feet 
+Speed :805.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :182.000000 seconds 
+Height:620.000000 feet 
+Speed :810.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :183.000000 seconds 
+Height:617.500000 feet 
+Speed :815.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :184.000000 seconds 
+Height:615.000000 feet 
+Speed :820.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :185.000000 seconds 
+Height:612.500000 feet 
+Speed :825.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :186.000000 seconds 
+Height:610.000000 feet 
+Speed :830.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :187.000000 seconds 
+Height:607.500000 feet 
+Speed :835.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :188.000000 seconds 
+Height:605.000000 feet 
+Speed :840.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :189.000000 seconds 
+Height:602.500000 feet 
+Speed :845.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :190.000000 seconds 
+Height:600.000000 feet 
+Speed :850.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :191.000000 seconds 
+Height:597.500000 feet 
+Speed :855.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :192.000000 seconds 
+Height:595.000000 feet 
+Speed :860.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :193.000000 seconds 
+Height:592.500000 feet 
+Speed :865.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :194.000000 seconds 
+Height:590.000000 feet 
+Speed :870.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :195.000000 seconds 
+Height:587.500000 feet 
+Speed :875.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :196.000000 seconds 
+Height:585.000000 feet 
+Speed :880.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :197.000000 seconds 
+Height:582.500000 feet 
+Speed :885.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :198.000000 seconds 
+Height:580.000000 feet 
+Speed :890.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :199.000000 seconds 
+Height:577.500000 feet 
+Speed :895.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :200.000000 seconds 
+Height:575.000000 feet 
+Speed :900.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :201.000000 seconds 
+Height:572.500000 feet 
+Speed :905.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :202.000000 seconds 
+Height:570.000000 feet 
+Speed :910.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :203.000000 seconds 
+Height:567.500000 feet 
+Speed :915.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :204.000000 seconds 
+Height:565.000000 feet 
+Speed :920.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :205.000000 seconds 
+Height:562.500000 feet 
+Speed :925.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :206.000000 seconds 
+Height:560.000000 feet 
+Speed :930.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :207.000000 seconds 
+Height:557.500000 feet 
+Speed :935.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :208.000000 seconds 
+Height:555.000000 feet 
+Speed :940.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :209.000000 seconds 
+Height:552.500000 feet 
+Speed :945.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :210.000000 seconds 
+Height:550.000000 feet 
+Speed :950.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :211.000000 seconds 
+Height:547.500000 feet 
+Speed :955.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :212.000000 seconds 
+Height:545.000000 feet 
+Speed :960.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :213.000000 seconds 
+Height:542.500000 feet 
+Speed :965.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :214.000000 seconds 
+Height:540.000000 feet 
+Speed :970.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :215.000000 seconds 
+Height:537.500000 feet 
+Speed :975.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :216.000000 seconds 
+Height:535.000000 feet 
+Speed :980.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :217.000000 seconds 
+Height:532.500000 feet 
+Speed :985.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :218.000000 seconds 
+Height:530.000000 feet 
+Speed :990.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :219.000000 seconds 
+Height:527.500000 feet 
+Speed :995.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :220.000000 seconds 
+Height:525.000000 feet 
+Speed :1000.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :221.000000 seconds 
+Height:522.500000 feet 
+Speed :1005.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :222.000000 seconds 
+Height:520.000000 feet 
+Speed :1010.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :223.000000 seconds 
+Height:517.500000 feet 
+Speed :1015.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :224.000000 seconds 
+Height:515.000000 feet 
+Speed :1020.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :225.000000 seconds 
+Height:512.500000 feet 
+Speed :1025.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :226.000000 seconds 
+Height:510.000000 feet 
+Speed :1030.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :227.000000 seconds 
+Height:507.500000 feet 
+Speed :1035.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :228.000000 seconds 
+Height:505.000000 feet 
+Speed :1040.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :229.000000 seconds 
+Height:502.500000 feet 
+Speed :1045.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :230.000000 seconds 
+Height:500.000000 feet 
+Speed :1050.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :231.000000 seconds 
+Height:497.500000 feet 
+Speed :1055.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :232.000000 seconds 
+Height:495.000000 feet 
+Speed :1060.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :233.000000 seconds 
+Height:492.500000 feet 
+Speed :1065.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :234.000000 seconds 
+Height:490.000000 feet 
+Speed :1070.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :235.000000 seconds 
+Height:487.500000 feet 
+Speed :1075.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :236.000000 seconds 
+Height:485.000000 feet 
+Speed :1080.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :237.000000 seconds 
+Height:482.500000 feet 
+Speed :1085.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :238.000000 seconds 
+Height:480.000000 feet 
+Speed :1090.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :239.000000 seconds 
+Height:477.500000 feet 
+Speed :1095.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :240.000000 seconds 
+Height:475.000000 feet 
+Speed :1100.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :241.000000 seconds 
+Height:472.500000 feet 
+Speed :1105.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :242.000000 seconds 
+Height:470.000000 feet 
+Speed :1110.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :243.000000 seconds 
+Height:467.500000 feet 
+Speed :1115.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :244.000000 seconds 
+Height:465.000000 feet 
+Speed :1120.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :245.000000 seconds 
+Height:462.500000 feet 
+Speed :1125.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :246.000000 seconds 
+Height:460.000000 feet 
+Speed :1130.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :247.000000 seconds 
+Height:457.500000 feet 
+Speed :1135.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :248.000000 seconds 
+Height:455.000000 feet 
+Speed :1140.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :249.000000 seconds 
+Height:452.500000 feet 
+Speed :1145.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :250.000000 seconds 
+Height:450.000000 feet 
+Speed :1150.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :251.000000 seconds 
+Height:447.500000 feet 
+Speed :1155.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :252.000000 seconds 
+Height:445.000000 feet 
+Speed :1160.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :253.000000 seconds 
+Height:442.500000 feet 
+Speed :1165.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :254.000000 seconds 
+Height:440.000000 feet 
+Speed :1170.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :255.000000 seconds 
+Height:437.500000 feet 
+Speed :1175.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :256.000000 seconds 
+Height:435.000000 feet 
+Speed :1180.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :257.000000 seconds 
+Height:432.500000 feet 
+Speed :1185.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :258.000000 seconds 
+Height:430.000000 feet 
+Speed :1190.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :259.000000 seconds 
+Height:427.500000 feet 
+Speed :1195.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :260.000000 seconds 
+Height:425.000000 feet 
+Speed :1200.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :261.000000 seconds 
+Height:422.500000 feet 
+Speed :1205.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :262.000000 seconds 
+Height:420.000000 feet 
+Speed :1210.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :263.000000 seconds 
+Height:417.500000 feet 
+Speed :1215.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :264.000000 seconds 
+Height:415.000000 feet 
+Speed :1220.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :265.000000 seconds 
+Height:412.500000 feet 
+Speed :1225.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :266.000000 seconds 
+Height:410.000000 feet 
+Speed :1230.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :267.000000 seconds 
+Height:407.500000 feet 
+Speed :1235.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :268.000000 seconds 
+Height:405.000000 feet 
+Speed :1240.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :269.000000 seconds 
+Height:402.500000 feet 
+Speed :1245.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :270.000000 seconds 
+Height:400.000000 feet 
+Speed :1250.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :271.000000 seconds 
+Height:397.500000 feet 
+Speed :1255.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :272.000000 seconds 
+Height:395.000000 feet 
+Speed :1260.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :273.000000 seconds 
+Height:392.500000 feet 
+Speed :1265.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :274.000000 seconds 
+Height:390.000000 feet 
+Speed :1270.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :275.000000 seconds 
+Height:387.500000 feet 
+Speed :1275.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :276.000000 seconds 
+Height:385.000000 feet 
+Speed :1280.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :277.000000 seconds 
+Height:382.500000 feet 
+Speed :1285.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :278.000000 seconds 
+Height:380.000000 feet 
+Speed :1290.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :279.000000 seconds 
+Height:377.500000 feet 
+Speed :1295.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :280.000000 seconds 
+Height:375.000000 feet 
+Speed :1300.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :281.000000 seconds 
+Height:372.500000 feet 
+Speed :1305.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :282.000000 seconds 
+Height:370.000000 feet 
+Speed :1310.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :283.000000 seconds 
+Height:367.500000 feet 
+Speed :1315.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :284.000000 seconds 
+Height:365.000000 feet 
+Speed :1320.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :285.000000 seconds 
+Height:362.500000 feet 
+Speed :1325.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :286.000000 seconds 
+Height:360.000000 feet 
+Speed :1330.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :287.000000 seconds 
+Height:357.500000 feet 
+Speed :1335.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :288.000000 seconds 
+Height:355.000000 feet 
+Speed :1340.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :289.000000 seconds 
+Height:352.500000 feet 
+Speed :1345.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :290.000000 seconds 
+Height:350.000000 feet 
+Speed :1350.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :291.000000 seconds 
+Height:347.500000 feet 
+Speed :1355.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :292.000000 seconds 
+Height:345.000000 feet 
+Speed :1360.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :293.000000 seconds 
+Height:342.500000 feet 
+Speed :1365.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :294.000000 seconds 
+Height:340.000000 feet 
+Speed :1370.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :295.000000 seconds 
+Height:337.500000 feet 
+Speed :1375.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :296.000000 seconds 
+Height:335.000000 feet 
+Speed :1380.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :297.000000 seconds 
+Height:332.500000 feet 
+Speed :1385.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :298.000000 seconds 
+Height:330.000000 feet 
+Speed :1390.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :299.000000 seconds 
+Height:327.500000 feet 
+Speed :1395.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :300.000000 seconds 
+Height:325.000000 feet 
+Speed :1400.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :301.000000 seconds 
+Height:322.500000 feet 
+Speed :1405.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :302.000000 seconds 
+Height:320.000000 feet 
+Speed :1410.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :303.000000 seconds 
+Height:317.500000 feet 
+Speed :1415.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :304.000000 seconds 
+Height:315.000000 feet 
+Speed :1420.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :305.000000 seconds 
+Height:312.500000 feet 
+Speed :1425.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :306.000000 seconds 
+Height:310.000000 feet 
+Speed :1430.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :307.000000 seconds 
+Height:307.500000 feet 
+Speed :1435.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :308.000000 seconds 
+Height:305.000000 feet 
+Speed :1440.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :309.000000 seconds 
+Height:302.500000 feet 
+Speed :1445.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :310.000000 seconds 
+Height:300.000000 feet 
+Speed :1450.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :311.000000 seconds 
+Height:297.500000 feet 
+Speed :1455.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :312.000000 seconds 
+Height:295.000000 feet 
+Speed :1460.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :313.000000 seconds 
+Height:292.500000 feet 
+Speed :1465.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :314.000000 seconds 
+Height:290.000000 feet 
+Speed :1470.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :315.000000 seconds 
+Height:287.500000 feet 
+Speed :1475.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :316.000000 seconds 
+Height:285.000000 feet 
+Speed :1480.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :317.000000 seconds 
+Height:282.500000 feet 
+Speed :1485.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :318.000000 seconds 
+Height:280.000000 feet 
+Speed :1490.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :319.000000 seconds 
+Height:277.500000 feet 
+Speed :1495.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :320.000000 seconds 
+Height:275.000000 feet 
+Speed :1500.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :321.000000 seconds 
+Height:272.500000 feet 
+Speed :1505.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :322.000000 seconds 
+Height:270.000000 feet 
+Speed :1510.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :323.000000 seconds 
+Height:267.500000 feet 
+Speed :1515.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :324.000000 seconds 
+Height:265.000000 feet 
+Speed :1520.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :325.000000 seconds 
+Height:262.500000 feet 
+Speed :1525.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :326.000000 seconds 
+Height:260.000000 feet 
+Speed :1530.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :327.000000 seconds 
+Height:257.500000 feet 
+Speed :1535.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :328.000000 seconds 
+Height:255.000000 feet 
+Speed :1540.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :329.000000 seconds 
+Height:252.500000 feet 
+Speed :1545.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :330.000000 seconds 
+Height:250.000000 feet 
+Speed :1550.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :331.000000 seconds 
+Height:247.500000 feet 
+Speed :1555.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :332.000000 seconds 
+Height:245.000000 feet 
+Speed :1560.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :333.000000 seconds 
+Height:242.500000 feet 
+Speed :1565.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :334.000000 seconds 
+Height:240.000000 feet 
+Speed :1570.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :335.000000 seconds 
+Height:237.500000 feet 
+Speed :1575.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :336.000000 seconds 
+Height:235.000000 feet 
+Speed :1580.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :337.000000 seconds 
+Height:232.500000 feet 
+Speed :1585.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :338.000000 seconds 
+Height:230.000000 feet 
+Speed :1590.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :339.000000 seconds 
+Height:227.500000 feet 
+Speed :1595.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :340.000000 seconds 
+Height:225.000000 feet 
+Speed :1600.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :341.000000 seconds 
+Height:222.500000 feet 
+Speed :1605.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :342.000000 seconds 
+Height:220.000000 feet 
+Speed :1610.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :343.000000 seconds 
+Height:217.500000 feet 
+Speed :1615.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :344.000000 seconds 
+Height:215.000000 feet 
+Speed :1620.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :345.000000 seconds 
+Height:212.500000 feet 
+Speed :1625.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :346.000000 seconds 
+Height:210.000000 feet 
+Speed :1630.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :347.000000 seconds 
+Height:207.500000 feet 
+Speed :1635.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :348.000000 seconds 
+Height:205.000000 feet 
+Speed :1640.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :349.000000 seconds 
+Height:202.500000 feet 
+Speed :1645.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :350.000000 seconds 
+Height:200.000000 feet 
+Speed :1650.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :351.000000 seconds 
+Height:197.500000 feet 
+Speed :1655.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :352.000000 seconds 
+Height:195.000000 feet 
+Speed :1660.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :353.000000 seconds 
+Height:192.500000 feet 
+Speed :1665.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :354.000000 seconds 
+Height:190.000000 feet 
+Speed :1670.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :355.000000 seconds 
+Height:187.500000 feet 
+Speed :1675.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :356.000000 seconds 
+Height:185.000000 feet 
+Speed :1680.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :357.000000 seconds 
+Height:182.500000 feet 
+Speed :1685.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :358.000000 seconds 
+Height:180.000000 feet 
+Speed :1690.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :359.000000 seconds 
+Height:177.500000 feet 
+Speed :1695.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :360.000000 seconds 
+Height:175.000000 feet 
+Speed :1700.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :361.000000 seconds 
+Height:172.500000 feet 
+Speed :1705.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :362.000000 seconds 
+Height:170.000000 feet 
+Speed :1710.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :363.000000 seconds 
+Height:167.500000 feet 
+Speed :1715.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :364.000000 seconds 
+Height:165.000000 feet 
+Speed :1720.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :365.000000 seconds 
+Height:162.500000 feet 
+Speed :1725.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :366.000000 seconds 
+Height:160.000000 feet 
+Speed :1730.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :367.000000 seconds 
+Height:157.500000 feet 
+Speed :1735.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :368.000000 seconds 
+Height:155.000000 feet 
+Speed :1740.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :369.000000 seconds 
+Height:152.500000 feet 
+Speed :1745.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :370.000000 seconds 
+Height:150.000000 feet 
+Speed :1750.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :371.000000 seconds 
+Height:147.500000 feet 
+Speed :1755.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :372.000000 seconds 
+Height:145.000000 feet 
+Speed :1760.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :373.000000 seconds 
+Height:142.500000 feet 
+Speed :1765.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :374.000000 seconds 
+Height:140.000000 feet 
+Speed :1770.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :375.000000 seconds 
+Height:137.500000 feet 
+Speed :1775.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :376.000000 seconds 
+Height:135.000000 feet 
+Speed :1780.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :377.000000 seconds 
+Height:132.500000 feet 
+Speed :1785.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :378.000000 seconds 
+Height:130.000000 feet 
+Speed :1790.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :379.000000 seconds 
+Height:127.500000 feet 
+Speed :1795.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :380.000000 seconds 
+Height:125.000000 feet 
+Speed :1800.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :381.000000 seconds 
+Height:122.500000 feet 
+Speed :1805.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :382.000000 seconds 
+Height:120.000000 feet 
+Speed :1810.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :383.000000 seconds 
+Height:117.500000 feet 
+Speed :1815.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :384.000000 seconds 
+Height:115.000000 feet 
+Speed :1820.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :385.000000 seconds 
+Height:112.500000 feet 
+Speed :1825.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :386.000000 seconds 
+Height:110.000000 feet 
+Speed :1830.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :387.000000 seconds 
+Height:107.500000 feet 
+Speed :1835.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :388.000000 seconds 
+Height:105.000000 feet 
+Speed :1840.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :389.000000 seconds 
+Height:102.500000 feet 
+Speed :1845.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :390.000000 seconds 
+Height:100.000000 feet 
+Speed :1850.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :391.000000 seconds 
+Height:97.500000 feet 
+Speed :1855.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :392.000000 seconds 
+Height:95.000000 feet 
+Speed :1860.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :393.000000 seconds 
+Height:92.500000 feet 
+Speed :1865.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :394.000000 seconds 
+Height:90.000000 feet 
+Speed :1870.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :395.000000 seconds 
+Height:87.500000 feet 
+Speed :1875.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :396.000000 seconds 
+Height:85.000000 feet 
+Speed :1880.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :397.000000 seconds 
+Height:82.500000 feet 
+Speed :1885.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :398.000000 seconds 
+Height:80.000000 feet 
+Speed :1890.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :399.000000 seconds 
+Height:77.500000 feet 
+Speed :1895.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :400.000000 seconds 
+Height:75.000000 feet 
+Speed :1900.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :401.000000 seconds 
+Height:72.500000 feet 
+Speed :1905.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :402.000000 seconds 
+Height:70.000000 feet 
+Speed :1910.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :403.000000 seconds 
+Height:67.500000 feet 
+Speed :1915.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :404.000000 seconds 
+Height:65.000000 feet 
+Speed :1920.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :405.000000 seconds 
+Height:62.500000 feet 
+Speed :1925.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :406.000000 seconds 
+Height:60.000000 feet 
+Speed :1930.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :407.000000 seconds 
+Height:57.500000 feet 
+Speed :1935.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :408.000000 seconds 
+Height:55.000000 feet 
+Speed :1940.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :409.000000 seconds 
+Height:52.500000 feet 
+Speed :1945.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :410.000000 seconds 
+Height:50.000000 feet 
+Speed :1950.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :411.000000 seconds 
+Height:47.500000 feet 
+Speed :1955.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :412.000000 seconds 
+Height:45.000000 feet 
+Speed :1960.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :413.000000 seconds 
+Height:42.500000 feet 
+Speed :1965.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :414.000000 seconds 
+Height:40.000000 feet 
+Speed :1970.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :415.000000 seconds 
+Height:37.500000 feet 
+Speed :1975.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :416.000000 seconds 
+Height:35.000000 feet 
+Speed :1980.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :417.000000 seconds 
+Height:32.500000 feet 
+Speed :1985.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :418.000000 seconds 
+Height:30.000000 feet 
+Speed :1990.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :419.000000 seconds 
+Height:27.500000 feet 
+Speed :1995.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :420.000000 seconds 
+Height:25.000000 feet 
+Speed :2000.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :421.000000 seconds 
+Height:22.500000 feet 
+Speed :2005.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :422.000000 seconds 
+Height:20.000000 feet 
+Speed :2010.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :423.000000 seconds 
+Height:17.500000 feet 
+Speed :2015.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :424.000000 seconds 
+Height:15.000000 feet 
+Speed :2020.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :425.000000 seconds 
+Height:12.500000 feet 
+Speed :2025.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :426.000000 seconds 
+Height:10.000000 feet 
+Speed :2030.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :427.000000 seconds 
+Height:7.500000 feet 
+Speed :2035.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :428.000000 seconds 
+Height:5.000000 feet 
+Speed :2040.000000 feet/second 
+Fuel  :0.000000
+Status of your APOLLO spacecraft: 
+Time  :429.000000 seconds 
+Height:2.500000 feet 
+Speed :2045.000000 feet/second 
+Fuel  :0.000000
+You totaled an entire mountain!!!!! 
+ Your family will be notified... by post. 
